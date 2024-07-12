@@ -4,31 +4,38 @@
 
 ## About Me
 
-I'm currently a student at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST). My research interests lie in:
+I'm currently a graduate student at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST). My research interests lie in:
 
-- **Monocular Depth Estimation**
-- **3D Object Detection**
-- **Simultaneous Localization and Mapping (SLAM)**
-- **3D Reconstruction**
+- **Monocular Depth Estimation** 📸
+- **3D Object Detection** 🛠️
+- **Simultaneous Localization and Mapping (SLAM)** 🗺️
+- **3D Reconstruction** 🏗️
 
 I am passionate about developing and applying advanced AI techniques to solve complex problems in these areas.
 
-## Contact Me
+## Education 🎓
+
+- **M.S. in Artificial Intelligence**, Huazhong University of Science and Technology (HUST)
+  - School of Artificial Intelligence and Automation
+- **B.S. in [Your Undergraduate Major]**, [Your Undergraduate University]
+  - [Your Undergraduate School/College]
+
+## Contact Me 📬
 
 Feel free to reach out to me via email:
 
 - **Primary Email:** gao_qiang@hust.edu.cn
 - **Secondary Email:** aifeixingdelv@gmail.com
 
-## GitHub Stats
+## GitHub Stats 📊
 
 ![aifeixingdelv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aifeixingdelv&show_icons=true&theme=radical)
 
-## Top Languages
+## Top Languages 💻
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aifeixingdelv&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aifeixingdelv&layout=compact&theme=radical&repo=repo1,repo2,repo3)
 
-## Projects
+## Projects 🚀
 
 Here are some of the projects I have worked on:
 
@@ -37,9 +44,4 @@ Here are some of the projects I have worked on:
 - [**SLAM**](https://github.com/aifeixingdelv/slam): A repository containing my work on Simultaneous Localization and Mapping.
 - [**3D Reconstruction**](https://github.com/aifeixingdelv/3d-reconstruction): Techniques and algorithms for reconstructing 3D models from various data sources.
 
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! 😊
