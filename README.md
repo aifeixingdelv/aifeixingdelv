@@ -15,7 +15,7 @@ I am passionate about developing and applying advanced AI techniques to solve co
 
 ## Education 🎓
 
-- **M.S. in Artificial Intelligence**, Huazhong University of Science and Technology(HUST)
+- **M.S. in Artificial Intelligence**, Huazhong University of Science and Technology (HUST)
     - School of Artificial Intelligence and Automation 
 - **Applying for Ph.D. programs...** 📚
 
