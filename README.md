@@ -17,7 +17,7 @@ I am passionate about developing and applying advanced AI techniques to solve co
 
 - **M.S. in Artificial Intelligence**, Huazhong University of Science and Technology (HUST)
   - School of Artificial Intelligence and Automation
-- **Applying for Ph.D. programs** 📚
+- **Applying for Ph.D. programs...** 📚
 
 ## Contact Me 📬
 
@@ -25,14 +25,6 @@ Feel free to reach out to me via email:
 
 - **Primary Email:** gao_qiang@hust.edu.cn
 - **Secondary Email:** aifeixingdelv@gmail.com
-
-## GitHub Stats 📊
-
-![aifeixingdelv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aifeixingdelv&show_icons=true&theme=radical)
-
-## Top Languages 💻
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aifeixingdelv&layout=compact&theme=radical&repo=monodepth2)
 
 ## Projects 🚀
 
