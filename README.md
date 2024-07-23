@@ -30,6 +30,6 @@ Feel free to reach out to me via email:
 
 Here are some of the projects I have worked on:
 
-- [**Monocular Depth Estimation**](https://github.com/aifeixingdelv/monocular-depth-estimation): A project focused on estimating depth from a single image using deep learning techniques.
+- [**MonoViM（Monocular Depth Estimation）**](https://github.com/aifeixingdelv/MonoViM): A project focused on estimating depth from a single image using deep learning techniques.
 
 Thank you for visiting my GitHub profile! 😊
